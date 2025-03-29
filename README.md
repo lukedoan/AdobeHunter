@@ -1,5 +1,7 @@
 # AdobeHunter
 
+![AdobeHunter Screenshot](https://raw.githubusercontent.com/lukedoan/AdobeHunter/main/Screenshot%202025-03-29%20190848.png)
+
 This PowerShell tool helps you manage Adobe applications more easily.
 
 ## Features
